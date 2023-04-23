@@ -12,7 +12,7 @@
         <h1>Resultado do processamento</h1>
     </header>
     <main>
-      <?php        // var_dump($_GET); //$_GET $_POST $_COOKIES Editado no github
+      <?php        // var_dump($_GET); //$_GET $_POST $_COOKIES Editado no VSCODE
         $nome = $_GET["nome"];
         $sobrenome = $_GET["sobrenome"];
         echo "<p>É um praze te conhecer <strong>$nome $sobrenome</strong>! Este é o meu site!";
