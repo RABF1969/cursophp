@@ -15,7 +15,7 @@
       <?php        // var_dump($_GET); //$_GET $_POST $_COOKIES
         $nome = $_GET["nome"];
         $sobrenome = $_GET["sobrenome"];
-        echo "<p>É um praze te conhecer <strong>$nome $sobrenome</strong>! Este é o meu site!";
+        echo "<p>É um prazer te conhecer <strong>$nome $sobrenome</strong>! Este é o meu site!";
       ?>  
       <p><a href="javascript:history.go(-1)">voltar para página anterior</a></p>
     </main>
